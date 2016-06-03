@@ -1,0 +1,63 @@
+{
+  "name": "nodebb-plugin-composer-for-job",
+  "version": "1.0.0",
+  "description": "Custom composer for NodeBB",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuoivh10/nodebb-plugin-composer-for-job.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "composer"
+  ],
+  "author": {
+    "name": "CareerVN Team",
+    "email": "hiep@career.vn"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chuoivh10/nodebb-plugin-composer-for-job/issues"
+  },
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  },
+  "gitHead": "",
+  "homepage": "https://github.com/chuoivh10/nodebb-plugin-composer-for-job#readme",
+  "_id": "nodebb-plugin-composer-for-job@1.0.0",
+  "scripts": {},
+  "_shasum": "68fda7c297547081e206678812c5732e44e7388f",
+  "_from": "nodebb-plugin-composer-for-job@1.0.0",
+  "_npmVersion": "2.14.20",
+  "_nodeVersion": "4.4.0",
+  "_npmUser": {
+    "name": "julianlam",
+    "email": "julian@designcreateplay.com"
+  },
+  "dist": {
+    "shasum": "68fda7c297547081e206678812c5732e44e7388f",
+    "tarball": "https://registry.npmjs.org/nodebb-plugin-composer-default/-/nodebb-plugin-composer-default-4.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "julianlam",
+      "email": "julian@designcreateplay.com"
+    },
+    {
+      "name": "baris",
+      "email": "barisusakli@gmail.com"
+    },
+    {
+      "name": "psychobunny",
+      "email": "psycho.bunny@hotmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/nodebb-plugin-composer-default-4.0.2.tgz_1464293237217_0.25491253240033984"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-composer-default/-/nodebb-plugin-composer-default-4.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
